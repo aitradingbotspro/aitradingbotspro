@@ -12,23 +12,12 @@ We deliver oversight, execution support, and risk management so professional cry
 
 </div>
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### 🔧 What We Build
+## 🔧 What We Build
 - AI-assisted execution systems  
 - Risk management tools  
 - Trading analytics and insights  
 
-</td>
-<td width="50%" valign="top">
-
-### 🎯 Philosophy
-No black-box automation.  
-No strategy takeover.  
-Just smarter trading with AI.
-
-</td>
-</tr>
-</table>
+## 🎯 Philosophy
+- No black-box automation.  
+- No strategy takeover.  
+- Just smarter trading with AI.
